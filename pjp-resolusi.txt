@@ -2,3 +2,6 @@ WPU RESOLUSI
 - Konsisten Broadcast minimal 100
 - Bikin Konten Sehari Sekali
 - Membuat Komunitas
+- Mempunyai Kantor
+- Mempunyai Mobil Perusahaan
+- Mempunyai Komputer
